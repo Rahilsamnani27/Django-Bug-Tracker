@@ -33,7 +33,7 @@ A basic project for managing bugs in a typical project/application
 - Clone the github repository:
 
 ```
-git clone https://github.com/lalitchandora/Django-Bug-Tracker
+git clone https://github.com/Rahilsamnani27/Django-Bug-Tracker
 ```
 
 - cd into the Django bug tracker project and migrate database
@@ -51,6 +51,3 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## License
-
-GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007Copyright (C) 2007 Free Software Foundation
