@@ -6,10 +6,6 @@ A basic project for managing bugs in a typical project/application
 
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## Screenshots
-
-###### Homepage
-![Image of Homepage](https://github.com/lalitchandora/Django-Bug-Tracker/blob/master/screenshots/homepage.png)
 
 ## Tech/Framework Used
 
